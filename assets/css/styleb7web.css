@@ -257,11 +257,17 @@ footer {
   display: flex;
 }
 
+.linkfooter {
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
 .fm1,
 .fm2,
 .fm3 {
   flex: 1;
-  color: #ffffff;
+
   padding: 20px;
 }
 
